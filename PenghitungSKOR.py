@@ -5,7 +5,7 @@ import json
 import os
 
 # Konfigurasi halaman
-st.set_page_config(page_title="Papan Skor Pro", page_icon="🏆", layout="wide")
+st.set_page_config(page_title="Ceki Wani Po Ora", page_icon="🏆", layout="wide")
 
 # File untuk menyimpan data agar tidak hilang saat refresh
 DB_FILE = "game_state.json"
